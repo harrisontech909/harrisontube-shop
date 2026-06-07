@@ -14,8 +14,8 @@ p {
 }
 
 .first-button {
-  background-color: blue;
-  color: white;
+  background-color: yellow;
+  color: rgb(255, 0, 0);
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
@@ -26,4 +26,9 @@ p {
 
 .first-title {
   font-size: 3rem;
+}
+
+.first-subtitle {
+  font-size: 2rem;
+  color:yellow;
 }
