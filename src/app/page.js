@@ -26,7 +26,7 @@ export default function Home() {
                 <h2 className="first-title">
                     First why don't you check out our HarrisonTube channel?
                 </h2>
-                
+                <img src="/t-shirt.png" alt="HarrisonTube T-Shirt" className="first-image" />
                 <p className="first-description">
                     There you can find all the latest videos about me.
                 </p>

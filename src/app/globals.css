@@ -32,3 +32,9 @@ p {
   font-size: 2rem;
   color:yellow;
 }
+
+.first-image {
+  max-width: 300px;
+  height: auto;
+  
+}
